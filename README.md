@@ -1,4 +1,4 @@
-# Startup Competition Assessment
+# AHP Competition Assessment
 
 Implementation of Analytical Hierarchy Process with case study Startup Competition Assesment. Build with Node.js and React.js.
 
